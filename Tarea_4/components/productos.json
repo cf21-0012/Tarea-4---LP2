@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "nombre": "Laptop Dell Inspiron",
+      "precio": 1500.00,
+      "porcentaje_descuento": 10,
+      "cantidad_existencia": 25
+    },
+    {
+      "id": 2,
+      "nombre": "Mouse Logitech MX Master",
+      "precio": 99.99,
+      "porcentaje_descuento": 5,
+      "cantidad_existencia": 40
+    },
+    {
+      "id": 3,
+      "nombre": "Teclado Mecánico Redragon",
+      "precio": 75.50,
+      "porcentaje_descuento": 15,
+      "cantidad_existencia": 30
+    },
+    {
+      "id": 4,
+      "nombre": "Monitor Samsung 24''",
+      "precio": 220.00,
+      "porcentaje_descuento": 12,
+      "cantidad_existencia": 18
+    },
+    {
+      "id": 5,
+      "nombre": "Disco Duro Externo 1TB",
+      "precio": 89.99,
+      "porcentaje_descuento": 8,
+      "cantidad_existencia": 50
+    },
+    {
+      "id": 6,
+      "nombre": "Memoria RAM 16GB DDR4",
+      "precio": 120.00,
+      "porcentaje_descuento": 5,
+      "cantidad_existencia": 22
+    },
+    {
+      "id": 7,
+      "nombre": "Procesador Intel i7 12700K",
+      "precio": 410.00,
+      "porcentaje_descuento": 10,
+      "cantidad_existencia": 12
+    },
+    {
+      "id": 8,
+      "nombre": "Tarjeta de Video RTX 3060",
+      "precio": 500.00,
+      "porcentaje_descuento": 7,
+      "cantidad_existencia": 10
+    },
+    {
+      "id": 9,
+      "nombre": "Fuente de Poder 750W",
+      "precio": 130.00,
+      "porcentaje_descuento": 6,
+      "cantidad_existencia": 20
+    },
+    {
+      "id": 10,
+      "nombre": "Silla Gamer RGB",
+      "precio": 280.00,
+      "porcentaje_descuento": 12,
+      "cantidad_existencia": 15
+    },
+    {
+      "id": 11,
+      "nombre": "Smartphone Samsung Galaxy S23",
+      "precio": 999.99,
+      "porcentaje_descuento": 10,
+      "cantidad_existencia": 25
+    },
+    {
+      "id": 12,
+      "nombre": "Tablet iPad Air",
+      "precio": 599.99,
+      "porcentaje_descuento": 9,
+      "cantidad_existencia": 30
+    },
+    {
+      "id": 13,
+      "nombre": "Impresora Multifuncional HP",
+      "precio": 200.00,
+      "porcentaje_descuento": 5,
+      "cantidad_existencia": 18
+    },
+    {
+      "id": 14,
+      "nombre": "Auriculares Inalámbricos Sony",
+      "precio": 150.00,
+      "porcentaje_descuento": 8,
+      "cantidad_existencia": 35
+    },
+    {
+      "id": 15,
+      "nombre": "Reloj Inteligente Apple Watch",
+      "precio": 400.00,
+      "porcentaje_descuento": 6,
+      "cantidad_existencia": 22
+    },
+    {
+      "id": 16,
+      "nombre": "Router WiFi 6 TP-Link",
+      "precio": 120.00,
+      "porcentaje_descuento": 10,
+      "cantidad_existencia": 28
+    },
+    {
+      "id": 17,
+      "nombre": "SSD NVMe 1TB Samsung",
+      "precio": 150.00,
+      "porcentaje_descuento": 12,
+      "cantidad_existencia": 40
+    },
+    {
+      "id": 18,
+      "nombre": "Cámara Web Logitech 1080p",
+      "precio": 80.00,
+      "porcentaje_descuento": 9,
+      "cantidad_existencia": 26
+    },
+    {
+      "id": 19,
+      "nombre": "Micrófono USB Blue Yeti",
+      "precio": 120.00,
+      "porcentaje_descuento": 7,
+      "cantidad_existencia": 15
+    },
+    {
+      "id": 20,
+      "nombre": "Control Xbox Series X",
+      "precio": 60.00,
+      "porcentaje_descuento": 5,
+      "cantidad_existencia": 50
+    },
+    {
+      "id": 21,
+      "nombre": "Consola PlayStation 5",
+      "precio": 499.99,
+      "porcentaje_descuento": 10,
+      "cantidad_existencia": 10
+    },
+    {
+      "id": 22,
+      "nombre": "Cargador Rápido USB-C",
+      "precio": 25.00,
+      "porcentaje_descuento": 15,
+      "cantidad_existencia": 60
+    },
+    {
+      "id": 23,
+      "nombre": "Mousepad XXL RGB",
+      "precio": 35.00,
+      "porcentaje_descuento": 8,
+      "cantidad_existencia": 33
+    },
+    {
+      "id": 24,
+      "nombre": "Hub USB 3.0 7 Puertos",
+      "precio": 50.00,
+      "porcentaje_descuento": 10,
+      "cantidad_existencia": 20
+    },
+    {
+      "id": 25,
+      "nombre": "Altavoces Bluetooth JBL",
+      "precio": 180.00,
+      "porcentaje_descuento": 7,
+      "cantidad_existencia": 25
+    }
+  ]
+  
